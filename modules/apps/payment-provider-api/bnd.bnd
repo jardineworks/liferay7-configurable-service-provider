@@ -1,0 +1,4 @@
+Bundle-Name: payment-provider-api
+Bundle-SymbolicName: com.jardineworks.payment.provider.api
+Bundle-Version: 1.0.0
+Export-Package: com.jardineworks.payment.provider.api.api
